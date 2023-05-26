@@ -15,6 +15,9 @@ module.exports = {
         'lexend-deca'  : ['Lexend Deca', 'sans-serif'],
       },
     },
+    screens: {
+      'sm': '700px'
+    }
   },
   plugins: [],
 }
