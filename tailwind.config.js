@@ -7,6 +7,7 @@ module.exports = {
       'cyan-1': 'hsl(184, 100%, 22%)',
       'cyan-2': 'hsl(179, 100%, 13%)',
       'white': 'hsl(0, 0%, 100%)',
+      'offwhite': 'hsl(0, 0%, 95%)',
     },
     extend: {
       fontFamily: {
